@@ -1,12 +1,24 @@
 # Lesson 1: Getting started with Git and GitHub
 
-Git is a tool for performing version control. Version control refers to having different versions of one file, or many files, and being able to retrieve an older version of such files if necessary. The main attraction of Git, though, is its ability to allow many people to work on one project together, with a history of what was done, so that the project can be rolled back if necessary. Git not only stores what was done on a project, but who does it. So, if you find a version, or commit, to the project that you don't know about, you know who to ask questions to.
+Git is a tool for performing version control. Version control refers
+to having different versions of one file, or many files, and being
+able to retrieve an older version of such files if necessary. The main
+attraction of Git, though, is its ability to allow many people to work
+on one project together, with a history of what was done, so that the
+project can be rolled back if necessary. Git not only stores what was
+done on a project, but who does it. So, if you find a version, or
+commit, to the project that you don't know about, you know who to ask
+questions to.
 
-In this course, we'll mainly be using Git through a service called GitHub. GitHub is a service which offers Git functionality on a large scale. With GitHub, you can work together with a team, friends, or coworkers on a project made of folders and files called a repository, all working on the same files
-thanks to version control and GitHub's online nature. You can also work on a
-separate path to work on a part of the project others don't need to see yet, and
-then merge your changes into the main project when you're ready. That separate
-path is called a "branch" in Git and GitHub.
+In this course, we'll mainly be using Git through a service called
+GitHub. GitHub is a service which offers Git functionality on a large
+scale. With GitHub, you can work together with a team, friends, or
+coworkers on a project made of folders and files called a repository,
+all working on the same files thanks to version control and GitHub's
+online nature. You can also work on a separate path to work on a part
+of the project others don't need to see yet, and then merge your
+changes into the main project when you're ready. That separate path is
+called a "branch" in Git and GitHub.
 
 ## Getting Started on GitHub-
 
@@ -38,7 +50,7 @@ anything to. When you've improved it to your satisfaction, you can make a Pull
 Request to request that your changes be merged back into the original
 repository.
 
-Then we have "Issues you created". "Issues' ' are problems or suggestions about
+Then you'll find "Issues you created". "Issues" are problems or suggestions about
 a repository. You can make an issue on a repository to tell the creators of that
 repository about a problem you've found, like code that doesn't work right, or
 grammar issues in a learning resource. So, "Issues you created" shows all of the
@@ -54,8 +66,8 @@ You'll also be shown trending repositories and developers.
 Next, you'll find your unread notifications. This shows if you have updates in
 repositories you commit to or follow, or account notifications.
 
-Then, you'll find the "Create new…" button. If you activate it, you'a drop-down
-box will open with the following options:
+Then, you'll find the "Create new…" button. If you activate it, a
+drop-down box will open with the following options:
 
 - New Repository
 - Import Repository
@@ -84,8 +96,8 @@ private, you can still send a link to someone else. You can create a new Gist at
 
 ## New organization
 
-Allows you to create a new organization. This organization will be made of users
-who have access to the same repositories.
+This allows you to create a new organization. This organization will
+be made of users who have access to the same repositories.
 
 ## New Project
 
